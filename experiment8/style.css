@@ -1,0 +1,12 @@
+table{
+	border: 2px solid darkblue;
+	border-radius: 5px;
+}
+
+body{
+	background-image: url("blue-background.jpg");
+}
+
+li{
+	font-family: "Monaco";
+}
